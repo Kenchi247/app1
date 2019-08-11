@@ -1,0 +1,138 @@
+// Place all the styles related to the books controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+    background-color: #fff;
+    color: #333;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 33px;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+p, td, ul{
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	font-famamily: verdanna, arial, helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 18px;
+	margin: 33px;
+}
+main {
+    background-color: #fff;
+    color: #333;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 33px;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+th {
+	display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+    padding-bottom: 5px;
+}
+.tith {
+	width: 192px;
+	margin: 0, auto;
+}
+
+.titd {
+	width: 192px;
+	margin: left;
+}
+.bdth {
+	width: 400px;
+	margin: 0, auto;
+}
+td {
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+strong {
+    font-weight: bold;
+}
+.not {
+    color: green;
+}
+.field {
+	margin-bottom: 10px;
+}
+element.style {
+}
+
+element.style {
+}
+#error_explanation h2 {
+    text-align: left;
+    font-weight: bold;
+    padding: 5px 5px 5px 15px;
+    font-size: 12px;
+    margin: -7px;
+    margin-bottom: 0;
+    background-color: #c00;
+    color: #fff;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+#error_explanation ul li {
+    font-size: 12px;
+    list-style: square;
+}
+#error_explanation {
+    width: 450px;
+    border: 2px solid red;
+    padding: 7px;
+    padding-bottom: 0;
+    margin-bottom: 20px;
+    background-color: #f0f0f0
+}
+.field_with_errors {
+    padding: 2px;
+    background-color: red;
+    display: table;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+label {
+    cursor: default;
+    background-color: ;
+}
+
+
+label {
+    display: block;
+}
